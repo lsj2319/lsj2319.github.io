@@ -59,16 +59,8 @@
   <!-- Contact Section -->
   <div class="w3-container w3-padding-32" id="contact">
     <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Contact</h3>
-    <p>Lets get in touch!.</p>
-    <form action="/action_page.php" target="_blank">
-      <input class="w3-input w3-border" type="text" placeholder="Name" required name="Name">
-      <input class="w3-input w3-section w3-border" type="text" placeholder="Email" required name="Email">
-      <input class="w3-input w3-section w3-border" type="text" placeholder="Subject" required name="Subject">
-      <input class="w3-input w3-section w3-border" type="text" placeholder="Comment" required name="Comment">
-      <button class="w3-button w3-black w3-section" type="submit">
-        <i class="fa fa-paper-plane"></i> SEND MESSAGE
-      </button>
-    </form>
+    <p>Say Hi!</p>
+  <a href="mailto:lee.suzanne.jordan@gmail.com?cc=ljordanatl@gmail.com,&subject=Hi%20From%GitHubPages&body=I-am-emailing-you-from-GitHub-Pages">Email Me</a>
   </div>
 
 <!-- End page content -->
@@ -77,7 +69,7 @@
 
 <!-- Footer -->
 <footer class="w3-center w3-black w3-padding-16">
-  <p>Thanks for visiting!</footer>
+   <p>Thanks for visiting!</p></footer>
 
   </body>
 </html>
